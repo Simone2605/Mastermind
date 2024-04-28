@@ -1,0 +1,2 @@
+# Mastermind
+Mastermind in Python
