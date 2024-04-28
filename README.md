@@ -1,4 +1,4 @@
-### Mastermind in Python
+### Mastermind
 Welcome to the Mastermind challenge. Are you ready to crack the secret color code?
 
 *Introduction:*
